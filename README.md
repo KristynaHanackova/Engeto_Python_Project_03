@@ -17,9 +17,9 @@ Skript se spouští v příkazovém řádku se dvěma argumenty:
 Příklad: python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102" "vysledky.csv"
 
 Ukázka výsledku pro okres Beroun: 
-Code,Location,Registered,Envelopes,Valid,Občanská demokratická strana,Řád národa 
-534421,Bavoryně,239,151,150,18,0,0,6,0,8,7,5,2,4,0,0,16
-531057,Beroun,14 804,9 145,9 076,1 363,16,11,576,1,433,651,140,78,205,8,12,1 290
+<img width="1000" height="168" alt="image" src="https://github.com/user-attachments/assets/7f84f38e-8506-4e54-90b9-c8ad5059bf7c" />
+
+
 
 Jak skrip funguje:
 1. Validace argumentů - script ověří, že jsou zadány oba argumenty a že první argument je platná URL adresa z volby.cz.
